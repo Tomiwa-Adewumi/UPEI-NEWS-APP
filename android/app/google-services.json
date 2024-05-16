@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572375480308",
+    "project_id": "upeinews-app",
+    "storage_bucket": "upeinews-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572375480308:android:c3a8aee757aad76dbaeba1",
+        "android_client_info": {
+          "package_name": "UpeiNews.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGBKwP53GkLwRyvl_CeYn8z9v1HfINP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572375480308:android:ae6269df9df5b0ccbaeba1",
+        "android_client_info": {
+          "package_name": "com.example.closet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGBKwP53GkLwRyvl_CeYn8z9v1HfINP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
