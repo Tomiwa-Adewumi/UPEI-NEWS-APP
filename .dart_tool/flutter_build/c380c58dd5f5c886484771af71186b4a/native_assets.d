@@ -1,0 +1,1 @@
+ /Users/tomiwaadewumi/vscode/UPEI-NEWS-APP/.dart_tool/flutter_build/c380c58dd5f5c886484771af71186b4a/native_assets.yaml: 
