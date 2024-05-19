@@ -11,13 +11,13 @@ The UPEI News App is an Android application developed using Flutter and Dart. It
 ## Screenshots
 Here are some screenshots of the UPEI News App:
 Home Screen:
-![Home Screen](<images/Homescreen.psg>)
+![Home Screen](<images/Homescreen.png>)
 
 Offline Screen:
-![Offline Screen](<images/offline screen.psg>)
+![Offline Screen](<images/offline screen.png>)
 
 Article Screen:
-![Article Screen](<images/articleView.psg>)
+![Article Screen](<images/articleView.png>)
 ## Getting Started
 ### Prerequisites
 To build and run this app, you'll need to have the following installed:
@@ -29,7 +29,6 @@ To build and run this app, you'll need to have the following installed:
  **Clone the repository:**
    ```bash
    git clone https://github.com/Tomiwa-Adewumi/UPEI-NEWS-APP.git
-   cd UPEI-NEWS-APP
    ```
  **Get the dependencies:**
  ```bash
