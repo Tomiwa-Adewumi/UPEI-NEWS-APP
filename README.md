@@ -10,14 +10,13 @@ The UPEI News App is an Android application developed using Flutter and Dart. It
 * Public and private comments on articles
 ## Screenshots
 Here are some screenshots of the UPEI News App:
-Home Screen:
+
 ![Home Screen](<images/Homescreen.png>)
 
-Offline Screen:
 ![Offline Screen](<images/offline screen.png>)
 
-Article Screen:
 ![Article Screen](<images/articleView.png>)
+
 ## Getting Started
 ### Prerequisites
 To build and run this app, you'll need to have the following installed:
